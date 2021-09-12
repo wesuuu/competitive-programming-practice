@@ -4,10 +4,6 @@
 test_cases = int(input())
 
 n = 0
-#while n != test_cases - 1:
-
-
-
 
 while n != test_cases:
     pairs = 0
