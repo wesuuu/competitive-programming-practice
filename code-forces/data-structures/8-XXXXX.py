@@ -1,6 +1,6 @@
 """
+1200
 https://codeforces.com/problemset/problem/1364/A
-
 """
 import unittest
 
